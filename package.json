@@ -1,0 +1,14 @@
+{
+  "name": "golu-jonwal-news",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
